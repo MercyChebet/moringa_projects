@@ -42,3 +42,14 @@ button {
     background-color:transparent;
     outline:none;
  }
+ .column {
+    float: left;
+    width: 33.33%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: inline-block;
+    clear: both;
+  }
