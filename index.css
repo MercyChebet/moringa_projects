@@ -180,12 +180,12 @@ margin: 15px;
      
       margin-right: 30px;
       padding: 12px;
-border-radius: 5px;
-border: none;
-background-color: #2549d3;
-outline: none;
-color: white;
-float: right;
+      border-radius: 5px;
+      border: none;
+      background-color: #2549d3;
+      outline: none;
+      color: white;
+      float: right;
   }
 
   .colum {
@@ -229,9 +229,9 @@ text-align: center;
 padding: 20px;
 }
 .price{
-color: #2549D3;
-font-weight: 600;
-margin-top: 20px;
+    color: #2549D3;
+    font-weight: 600;
+    margin-top: 20px;
 }
 .text{
 margin-left:5px;
